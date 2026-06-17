@@ -1,5 +1,7 @@
 # Task Manager Application
+# Contributing Guidelines
 
 ## UI Layout Design
 - Integrated a fluid grid architecture for task dashboard tracking modules.
-This line is modified by Ahmad on branch one.
+
+### Resolved Collaboration: Final task list finalized by Ahmad and team.
